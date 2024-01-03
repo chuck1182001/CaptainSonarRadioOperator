@@ -12,23 +12,23 @@ Also you will need to input the size and number of quadrants of the map. Size is
 
 Current working commands:
 
-Enemy movements:
-    N - Enemy moves North
-    S - Enemy moves South
-    E - Enemy moves East
-    W - Enemy moves West
+Enemy movements:  
+    N - Enemy moves North  
+    S - Enemy moves South  
+    E - Enemy moves East  
+    W - Enemy moves West  
 
-Enemy actions:
-    ENEMY TORPEDO - will take in the position of the enemy torpedo and only show possbile positions 4 moves away
-    SURFACE - will take the quadrant the enemy appears in and filter out positions not in that quadrant
+Enemy actions:  
+    ENEMY TORPEDO - will take in the position of the enemy torpedo and only show possbile positions 4 moves away  
+    SURFACE - will take the quadrant the enemy appears in and filter out positions not in that quadrant  
 
-Allied actions:
-    DRONE - Will take in the quadrant guess and result and filter out positions based on result
-    SONAR - Will filter out all possible positions that do not fit within either piece of given info
-    TORPEDO - Will take in torpedo location and filter out possible locations based on result of shot
-    MINE DETONATION - Same as TORPEDO
-
-Features to add:
-    Enemy Silent Running
-    Map of possible enemy mines
-    Retrace enemy position from detonated mine position
+Allied actions:  
+    DRONE - Will take in the quadrant guess and result and filter out positions based on result  
+    SONAR - Will filter out all possible positions that do not fit within either piece of given info  
+    TORPEDO - Will take in torpedo location and filter out possible locations based on result of shot  
+    MINE DETONATION - Same as TORPEDO  
+  
+Features to add:  
+    Enemy Silent Running  
+    Map of possible enemy mines  
+    Retrace enemy position from detonated mine position  
